@@ -1,0 +1,5 @@
+reset;
+model cm.mod;
+data cm.dat;
+solve;
+display X;
